@@ -5,3 +5,10 @@
 .titulo h5{
     font-size: 60px;
 }
+.switch{
+    margin-left: 10px;
+}
+.switch input{
+    margin-left: 8px;
+    margin-top: 6px;
+}
